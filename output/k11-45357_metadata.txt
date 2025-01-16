@@ -1,0 +1,23 @@
+=== General Information ===
+Beamline: k11
+Experiment no.: mg36270-1
+Scan no.: k11-45357
+Start Time: Wednesday, July 31, 2024 at 11:52:39 PM
+
+=== Instrument Parameters ===
+X-ray beam type: Monochromatic
+Nominal Energy (keV): 14.07
+Propagation dist. (mm): 150.001
+
+=== Scanning Parameters ===
+PCO Exposure Time (s): 0.5
+Duration: 00h 34m 59s
+No. of flats: 40
+No. of darks: 40
+No. of projection: 4020
+Start angle: 0.0
+Stop angle: 180.0
+Angular step: 0.04478726051256531
+
+=== Reconstruction Info ===
+savuPL: /dls/k11/data/2024/mg36270-1/xml/tomography/configurations/Savu/full_fd_rr_vo_AST_tiff.nxs
