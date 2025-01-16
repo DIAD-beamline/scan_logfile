@@ -56,12 +56,12 @@ The script generates a `.txt` file in the same directory as the input `.nxs` fil
 ```
 === General Information ===
 Beamline: k11
-Experiment no.: 45357
+Experiment no.: mg12345-1
 Scan no.: k11-45357
 Start Time: Wednesday, July 31, 2024 at 11:52:39 PM
 
 === Instrument Parameters ===
-X-ray beam type: Imaging
+X-ray beam type: Monochromatic
 Nominal Energy (keV): 25
 Propagation dist. (mm): 150.0
 
