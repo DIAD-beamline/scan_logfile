@@ -55,7 +55,7 @@ The script generates a `.txt` file in the same directory as the input `.nxs` fil
 
 ```
 === General Information ===
-Beamline: I13-2
+Beamline: k11
 Experiment no.: 45357
 Scan no.: k11-45357
 Start Time: Wednesday, July 31, 2024 at 11:52:39 PM
@@ -67,7 +67,7 @@ Propagation dist. (mm): 150.0
 
 === Scanning Parameters ===
 PCO Exposure Time (s): 0.05
-Duration: 002h 15m 42s
+Duration: 02h 15m 42s
 No. of flats: 10
 No. of darks: 10
 No. of projection: 500
@@ -76,7 +76,7 @@ Stop angle: 180.0
 Angular step: 0.1
 
 === Reconstruction Info ===
-savuPL: /path/to/savu/config.json
+savu PL: /path/to/savu/config.json
 ```
 
 ## Notes
