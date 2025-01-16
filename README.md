@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Python script extracts essential metadata from `.nxs` (NeXus) files and outputs the information into a structured, human-readable `.txt` file. The output is organized into clearly defined sections for easier interpretation.
+This Python script extracts essential metadata from DIAD tomography scan `.nxs` (NeXus) files and outputs the information into a structured, human-readable `.txt` file. The output is organized into clearly defined sections for easier interpretation.
 
 ## Features
 
